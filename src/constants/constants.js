@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { time: "May2021", text: 'Started doing Competitive Programming', },
+  { time: "May 2021", text: 'Started doing Competitive Programming', },
   { time: "July 2020", text: 'Started building interactive web apps', },
-  { time: "Apr2020", text: 'Learned modern web frameworks like React, Node, Django', },
+  { time: "Apr 2020", text: 'Learned modern web frameworks like React, Node, Django', },
   { time: "Sep 2019", text: 'Started learning & building Android apps', },
   { time: "Jan 2019", text: 'Started building websites', },
 ];
